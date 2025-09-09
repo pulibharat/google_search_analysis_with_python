@@ -51,3 +51,5 @@ This project shows how to answer such questions using Google Trends data.
 ---
 example: keyword = "Artificial Intelligence"
 Run the notebook and modify the keyword in the code to analyze different search terms.
+
+<img width="1211" height="592" alt="image" src="https://github.com/user-attachments/assets/5e7f3f41-90e0-497f-a755-d623aa130893" />
